@@ -30,7 +30,7 @@ ultimately unlock paths to the desired optimal solution. It is able to solve an 
 
 ### Prerequisites
 - Python 3.x
-- Required Python packages (numpy, matplotlib) - if any
+
 
 ### Setup
 1. Clone the repository or download the source files
